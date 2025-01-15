@@ -1,3 +1,4 @@
+
 Hello dear friends Sergey!
 
 Please commit this file 
@@ -5,4 +6,11 @@ Thank you!
 
 And send me your invite to commit your pull request in Git hub
 
+
+
+Hello people!
+Hi friend!
+Please commit this file!
+
+Send me your pull request for confirmation
 
