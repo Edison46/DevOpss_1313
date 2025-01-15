@@ -1,1 +1,5 @@
 Hello people!
+Hi friend!
+Please commit this file!
+
+Send me your pull request for confirmation
